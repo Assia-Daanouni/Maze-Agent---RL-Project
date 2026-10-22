@@ -1,0 +1,11 @@
+# Environnements virtuels Python
+.venv/
+venv/
+
+# Fichiers Python générés
+__pycache__/
+*.py[cod]
+
+# Fichiers générés par les outils
+.pytest_cache/
+.vscode/
